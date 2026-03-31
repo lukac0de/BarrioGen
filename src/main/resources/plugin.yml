@@ -1,0 +1,6 @@
+name: BarrioGen
+version: 1.0.0
+main: com.lukaa.barriogen.BarrioGenPlugin
+api-version: '1.21'
+description: Generador procedural de barrios urbanos latinoamericanos
+authors: [Lukaa]

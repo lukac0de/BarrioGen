@@ -1,0 +1,5 @@
+world:
+  name: "barriogen_world"
+  seed: 12345
+  ground-y: 64
+  terrain-variation: 4
